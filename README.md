@@ -1,1 +1,1 @@
-# Evidence_Historical_Mind_Perceptions_Natural_Language
+# What is (and was) a Person?} -- Evidence on Historical Mind Perceptions from Natural Language
