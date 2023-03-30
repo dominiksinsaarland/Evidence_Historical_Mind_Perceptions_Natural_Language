@@ -19,7 +19,7 @@ conda activate agency_experience
 pip install -r requirements.txt
 ```
 
-## setup
+## Setup
 
 Extract vectors: this simply extracts word embeddings for all words of interest from various pre-trained embeddings, such that we do not have to load all embeddings all the time (have a look at the python file for more detail and from where to download some word embeddings).
 
@@ -27,7 +27,7 @@ Extract vectors: this simply extracts word embeddings for all words of interest 
 python src/extract_word_vectors.py
 ```
 
-## main results (scatterplots showing correlation between word embeddings and survey results)
+## Main results (scatterplots showing correlation between word embeddings and survey results)
 
 to create the scatterplots in our Figure 1 in the paper, run 
 
@@ -35,7 +35,7 @@ to create the scatterplots in our Figure 1 in the paper, run
 python create_scatterplots.py
 ```
 
-## main results (historical analysis)
+## Main results (historical analysis)
 
 To create our historical analysis, i.e., Figure 2 in the paper, run the following steps:
 
