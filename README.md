@@ -103,4 +103,8 @@ python coha-code/align_embeddings_all.py
 
 And this yields the same aligned models as the one in the zip file (there might be small differences in reproductino because we did not set a seed to bootstrap the corpora, and we did not set a seed while running word2vec).
 
+## Questions
+If anything should not work or is unclear, please don't hesitate to contact the authors
+
+* Dominik Stammbach (dominik.stammbach@gess.ethz.ch)
 
