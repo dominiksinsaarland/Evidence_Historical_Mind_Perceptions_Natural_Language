@@ -1,4 +1,4 @@
-# What is (and was) a Person? Evidence on Historical Mind Perceptions from Natural Language
+# Replication Package: What is (and was) a Person? Evidence on Historical Mind Perceptions from Natural Language
 
 This github repo contains the reproduction package for our paper about [evidence on historical mind perceptions from natural language](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959847).  
 
