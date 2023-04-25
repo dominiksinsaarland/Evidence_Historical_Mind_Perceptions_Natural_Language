@@ -1,0 +1,54 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Evidence on Mind Perceptions from Natural Language
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Elliott
+    family-names: Ash
+    email: ashe@ethz.ch
+    affiliation: ETH Zurich
+    orcid: 'https://orcid.org/0000-0002-6817-7529'
+  - given-names: Dominik
+    family-names: Stammbach
+    email: dominsta@ethz.ch
+    affiliation: ETH Zurich
+    orcid: 'https://orcid.org/0000-0003-1631-3020'
+  - given-names: Kevin
+    family-names: Tobia
+    email: kt744@georgetown.edu
+    affiliation: Georgetown University
+    orcid: 'https://orcid.org/0000-0003-3447-9825'
+identifiers:
+  - type: doi
+    value: 10.2139/ssrn.3959847
+    description: SSRN preprint
+repository-code: >-
+  https://github.com/dominiksinsaarland/Evidence_Historical_Mind_Perceptions_Natural_Language
+abstract: >-
+  An important philosophical tradition identifies persons as
+  those entities that have minds, such that mind perception
+  is a window into person perception. Psychological research
+  has found that human perceptions of mind consist of at
+  least two distinct dimensions: agency (e.g. planning,
+  deciding) and experience (e.g. feeling, hungering). Taking
+  this insight into the semantic space of natural language,
+  we develop a generalizable, scalable
+  computational-linguistics method for measuring variation
+  in perceived agency and experience in large archives of
+  plain-text documents. The resulting text-based rankings of
+  entities along these dimensions correspond to human
+  judgments of perceived agency and experience assessed in
+  blind surveys. We then map both dimensions of mind in
+  historical English-language corpora over the last 200
+  years and identify two salient trends. First, we find that
+  while women are now described as having similar levels of
+  agency as men, they are still described as more
+  experience-oriented. Second, we find that  domesticated
+  animals have gained higher attributions of experience (but
+  not agency) relative to wild animals, especially since the
+  rise of the global animal rights movement in the 1980s.
