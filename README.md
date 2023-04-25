@@ -32,7 +32,7 @@ python src/extract_word_vectors.py
 to create the scatterplots in our Figure 1 in the paper, run 
 
 ```shell
-python create_scatterplots.py
+python src/create_scatterplots.py
 ```
 
 ## Main results (historical analysis)
